@@ -5,8 +5,11 @@ This guide is meant to cover some basics on : **Actor**, **function**, **types**
 
 # Prerequisites ✅
 
-- Check you have dfx installed on your machine. Go with the latest which is 0.17.0
+- Check you have dfx installed on your machine. Go with 0.17.0 or latest 0.22.0
 
+  ```
+  dfxvm list
+  ```
   ```
   dfx --version
   ```
